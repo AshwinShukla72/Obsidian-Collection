@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "d7b0104d82ecbd55",
+    "type": "split",
+    "children": [
+      {
+        "id": "eecac11b85a79055",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Slices.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9857f4aea5865662",
+    "type": "split",
+    "children": [
+      {
+        "id": "450bde8619411bb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "497410177bd694cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d12319aae40e1d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 194.5
+  },
+  "right": {
+    "id": "5755251662da19bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "be60256fe3c10466",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaa0d66e6016fdae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Slices.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38b8c927d10e50b0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "30deebb05dbdcaeb",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "afd028ca80adf85c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "eecac11b85a79055",
+  "lastOpenFiles": [
+    "Slices.md",
+    "Prealocating slices.md",
+    "MultiDimensional Slices.md",
+    "Dynamic Arrays.md",
+    "Arrays.md",
+    "GOlang Table.md",
+    "Functions/Functions.md",
+    "Logic Methods.md",
+    "Features of Go.md",
+    "Declaring variables.md"
+  ]
+}

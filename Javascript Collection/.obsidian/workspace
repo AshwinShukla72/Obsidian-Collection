@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "6a5a6a305c228197",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ecddb32f5c89f64",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "This Keyword.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fac57aceb182d7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "44cc7c07230e3be0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b14f176ef9866219",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "510ff6157cc1ff0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5
+  },
+  "right": {
+    "id": "fe49b824519e8839",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ef03f84aef4e745",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12dea708b56d3b4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "This Keyword.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a446cfb39fecd66",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0ecddb32f5c89f64",
+  "lastOpenFiles": [
+    "This Keyword.md",
+    "Object-Orienting.md",
+    "Javascript Table.md",
+    "Module Pattern.md",
+    "Hoisting.md",
+    "Block Scoping.md",
+    "Closure.md",
+    "Execution Context.md",
+    "Functions.md",
+    "Let, const and var.md"
+  ]
+}
