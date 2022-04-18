@@ -37,4 +37,41 @@ b = append(b, slice...)
 
 > ==Slices always require underlying array==
 
+```go
+package main
+
+import (
+	. "fmt"
+	_ "reflect"
+)
+// function that prints all elements of a slice by iteration
+func printSlice(title string, slice []string) {
+	Println()
+	Println("====", title, "====")
+	for i := 0; i < len(slice); i++ {
+		element := slice[i]
+		Println(element)
+	}
+}
+func main() {
+	route := []string{"Grocery", "Department Store", "Salon"}
+	printSlice("route 1", route)
+	// adding another element in the slice
+	route = append(route, "Home")
+	printSlice("route 2", route)
+	Println()
+	Println("====","Places visited","====")
+	Println(route[0], "=> Visited")
+	Println(route[1], "=> Visited")
+	Println(route[3], "=> Visited")
+	Println(route[2], "=> Not Visited")
+	// adding another route through the append method on slice
+	route = append(route,"Fish Market")
+	printSlice("route 3", route)
+}
+
+```
+
 ![[MultiDimensional Slices]]
+
+![[Ranges]]

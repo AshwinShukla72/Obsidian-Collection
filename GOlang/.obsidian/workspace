@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "eecac11b85a79055",
+        "id": "9172ba76927e54a8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slices.md",
+            "file": "Map/Map.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slices.md",
+                "file": "Map/Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eecac11b85a79055",
+  "active": "9172ba76927e54a8",
   "lastOpenFiles": [
-    "Slices.md",
-    "Prealocating slices.md",
-    "MultiDimensional Slices.md",
-    "Dynamic Arrays.md",
-    "Arrays.md",
-    "GOlang Table.md",
-    "Functions/Functions.md",
-    "Logic Methods.md",
-    "Features of Go.md",
-    "Declaring variables.md"
+    "Map/Map.md",
+    "Arrays/Arrays.md",
+    "Slices/Slices.md",
+    "Slices/Ranges.md",
+    "2022-04-14.md",
+    "Slices/MultiDimensional Slices.md",
+    "Outputs.md",
+    "Golang Table.md",
+    "Slices/Prealocating slices.md",
+    "Arrays/Dynamic Arrays.md"
   ]
 }
