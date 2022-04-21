@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "cb14c07579b64806",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cb119f1af726feb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Graph Databases/Introduction.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d88c57f2ed5384e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f43843838767ebae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a17f39ed7b7ce9a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1088d70375b682e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c98273e01e89b11c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9321fe032cf05c0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a561468630728958",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Graph Databases/Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9cb119f1af726feb",
+  "lastOpenFiles": [
+    "Graph Databases/Introduction.md"
+  ]
+}

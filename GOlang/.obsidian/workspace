@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Map/Map.md",
+            "file": "1 minute revision.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Map/Map.md",
+                "file": "1 minute revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,22 +81,6 @@
             }
           },
           {
-            "id": "38b8c927d10e50b0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "30deebb05dbdcaeb",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
             "id": "afd028ca80adf85c",
             "type": "leaf",
             "state": {
@@ -104,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,15 +97,15 @@
   },
   "active": "9172ba76927e54a8",
   "lastOpenFiles": [
+    "1 minute revision.md",
+    "Pointers/Pointers in GO.md",
+    "Loops.md",
+    "Slices/Ranges.md",
     "Map/Map.md",
     "Arrays/Arrays.md",
     "Slices/Slices.md",
-    "Slices/Ranges.md",
     "2022-04-14.md",
     "Slices/MultiDimensional Slices.md",
-    "Outputs.md",
-    "Golang Table.md",
-    "Slices/Prealocating slices.md",
-    "Arrays/Dynamic Arrays.md"
+    "Outputs.md"
   ]
 }

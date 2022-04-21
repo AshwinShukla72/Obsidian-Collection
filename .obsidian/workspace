@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript Collection/Execution Context.md",
+            "file": "Extras/Hussein Nasser Collection/Package.json and Package-lock.json.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript Collection/Execution Context.md",
+                "file": "Extras/Hussein Nasser Collection/Package.json and Package-lock.json.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "eb4aa5662cc66681",
   "lastOpenFiles": [
+    "Extras/Hussein Nasser Collection/Package.json and Package-lock.json.md",
+    "Extras/Untitled.md",
     "Javascript Collection/Execution Context.md",
     "GOlang/Features of Go.md",
     "GOlang/GOlang Table.md",
