@@ -11,10 +11,10 @@
 - **Serializable**
 	Transactions are serialized.
 
-
-| Isolation Levels | Dirty Reads    | Non-Repeatable Read | Phantom Reads  | Lost Updates   |
+---
+| **Isolation Levels** | Dirty Reads    | Non-Repeatable Read | Phantom Reads  | Lost Updates   |
 | ---------------- | -------------- | ------------------- | -------------- | -------------- |
-| Read Uncommitted | ==Can Happen== | ==Can Happen==      | ==Can Happen== | ==Can Happen== |
-| Read Committed   | Doesn't Occur  | ==Can Happen==      | ==Can Happen== | ==Can Happen== |
-| Repeatable Read  | Doesn't Occur  | Doesn't Occur       | Doesn't Occur  | ==Can Happen== |
-| Serializable     | Doesn't Occur  | Doesn't Occur       | Doesn't Occur  | Doesn't Occur               |
+| **Read Uncommitted** | ==Can Happen== | ==Can Happen==      | ==Can Happen== | ==Can Happen== |
+| **Read Committed**   | Doesn't Occur  | ==Can Happen==      | ==Can Happen== | ==Can Happen== |
+| **Repeatable Read**  | Doesn't Occur  | Doesn't Occur       | Doesn't Occur  | ==Can Happen== |
+| **Serializable**     | Doesn't Occur  | Doesn't Occur       | Doesn't Occur  | Doesn't Occur               |
