@@ -28,3 +28,4 @@ function boo(param) {
 
 ```
 
+![[Hoisting]]

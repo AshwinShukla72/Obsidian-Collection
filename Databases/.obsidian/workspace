@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Relational Databases/Isolation/Isolation levels for inflight transactions.md",
+            "file": "Relational Databases/Atomicity.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relational Databases/Isolation/Isolation levels for inflight transactions.md",
+                "file": "Relational Databases/Atomicity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,14 +89,14 @@
   },
   "active": "dc902e3d3793e07b",
   "lastOpenFiles": [
+    "Relational Databases/Atomicity.md",
+    "Relational Databases/ACID.md",
     "Relational Databases/Isolation/Isolation levels for inflight transactions.md",
     "Relational Databases/Isolation/Isolation.md",
     "Relational Databases/Conistency/Consistency.md",
     "Relational Databases/Conistency/Consistency in Data.md",
     "Relational Databases/Table.md",
-    "Relational Databases/ACID.md",
     "Relational Databases/Isolation/Read Phenomena.md",
-    "Relational Databases/Atomicity.md",
     "Relational Databases/Durabilty.md",
     "Graph Databases/Introduction.md"
   ]

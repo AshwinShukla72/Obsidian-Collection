@@ -17,7 +17,7 @@ foo() // "Bar 1"
 foo.call(obj) // "Bar 2" -> call foo but use obj for reference
 ```
 
-#### HArd Binding
+#### Hard Binding
 ```js
 function foo(){
 	console.log(this.bar)
@@ -33,7 +33,7 @@ foo() //bar
 foo.call(obj)
 ```
 
-####  New Binding
+#### New Binding
 ```js
 function foo(){
 	this.baz = "baz"

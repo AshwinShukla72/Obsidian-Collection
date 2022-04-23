@@ -33,14 +33,13 @@ In the above program the JS engine will start handing out problems in the code b
 This can only be accomplished if the code as compiled and the scopes for each case were calculated. Thus, code is parsed before execution
 
 > Compilation creates a map of all lexical scopes that lays out what the program will need while it executes.
-> 
 > This is to understand that scopes are identified during compilation but not used until runtime.
 
 #### Scoping Rule
 Inner scope can access variables initialized in an outer scope, but not vice versa.
-[[Block Scoping]]
+![[Block Scoping]]
 
-#### [[Closure]]
+ ![[Closure]]
 
 
 

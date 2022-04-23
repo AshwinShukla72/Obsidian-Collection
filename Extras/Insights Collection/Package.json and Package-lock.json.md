@@ -1,7 +1,8 @@
 # Why package.json is not Enough?
 #nodejs
-#### Versioning
-> ==_**Major.Minor.Patch**_==
+
+##### Versioning
+**Major.Minor.Patch**
 
 ```json
 "dependencies":{
@@ -10,11 +11,11 @@
 }
 ```
 
-#### What is Package-Lock.json
+##### What is Package-Lock.json
 
 ==**Keeps track of what was actually installed at the beginning of the project**== and keeps track of versioning by getting information from package.json, when `package.json` is changed `package-lock.json` is outdated and is upadated with `npm i`
 
-#### Difference between `npm i`  and  `npm ci`
+##### Difference between `npm i`  and  `npm ci`
 - `npm i` will  install the best package and  will update the `package-lock.json` file.
 -  `npm ci`  ci for  `clean-install` whe n `node_modules` file is not present, if present it will remove it automatically.
 - It will never write to `package.json` or any of the package-locks: installs are essentially frozen

@@ -1,6 +1,6 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Molecule",
+  "cssTheme": "Spectrum",
   "translucency": false,
-  "theme": "moonstone"
+  "theme": "obsidian"
 }
