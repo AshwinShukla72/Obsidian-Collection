@@ -7,9 +7,17 @@
         "id": "9cb119f1af726feb",
         "type": "leaf",
         "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "dc902e3d3793e07b",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "Graph Databases/Introduction.md",
+            "file": "Relational Databases/Isolation/Isolation.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#transaction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph Databases/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +96,15 @@
   },
   "active": "9cb119f1af726feb",
   "lastOpenFiles": [
+    "Relational Databases/Conistency/Consistency.md",
+    "Relational Databases/Isolation/Isolation.md",
+    "Relational Databases/Conistency/Consistency in Data.md",
+    "Relational Databases/Table.md",
+    "Relational Databases/ACID.md",
+    "Relational Databases/Isolation/Isolation levels for inflight transactions.md",
+    "Relational Databases/Isolation/Read Phenomena.md",
+    "Relational Databases/Atomicity.md",
+    "Relational Databases/Durabilty.md",
     "Graph Databases/Introduction.md"
   ]
 }

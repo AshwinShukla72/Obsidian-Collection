@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1 minute revision.md",
+            "file": "Map/Map.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 minute revision.md",
+                "file": "Map/Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,11 +97,11 @@
   },
   "active": "9172ba76927e54a8",
   "lastOpenFiles": [
-    "1 minute revision.md",
+    "Map/Map.md",
     "Pointers/Pointers in GO.md",
+    "1 minute revision.md",
     "Loops.md",
     "Slices/Ranges.md",
-    "Map/Map.md",
     "Arrays/Arrays.md",
     "Slices/Slices.md",
     "2022-04-14.md",
