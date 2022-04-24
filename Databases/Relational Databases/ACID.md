@@ -1,4 +1,3 @@
-
 #### Definition
 > In the context of transaction processing, ACID refers to 4 key properties of a transaction → Atomicity, Isolation, Consistency & Durability
 
