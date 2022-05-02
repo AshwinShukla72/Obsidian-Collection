@@ -3,5 +3,9 @@
   "table-editor-obsidian",
   "calendar",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "nldates-obsidian",
+  "obsidian-checklist-plugin",
+  "obsidian-emoji-toolbar",
+  "obsidian-tasks-plugin"
 ]

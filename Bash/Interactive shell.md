@@ -1,0 +1,3 @@
+- **BASH** or **bourne again shell**, used by many as their default shell namely Linux and MAC OS.
+- It let's you enter and edit commands, executes them on **_ENTER_** key.
+- 

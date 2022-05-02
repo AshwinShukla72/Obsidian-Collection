@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Databases/Relational Databases/Conistency/Consistency.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Relational Databases/Conistency/Consistency.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "e58ff8b997a1ef1d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ]
       }
@@ -97,15 +105,15 @@
   },
   "active": "bb61ee00b2f86d04",
   "lastOpenFiles": [
-    "Databases/Relational Databases/Conistency/Consistency.md",
-    "Databases/Relational Databases/Conistency/Consistency in Data.md",
-    "Databases/Relational Databases/Isolation/Isolation.md",
-    "Databases/Relational Databases/ACID.md",
-    "Databases/Relational Databases/Relational databases Table of Content.md",
     "README.md",
-    "DevOps/DevOps Table of Content.md",
+    "GOlang/Golang table of Content.md",
+    "GOlang/Golang Projects.md",
+    "NodeJS/NodeJS Projects/Node JS Projects.md",
+    "NodeJS/NodeJS Projects/Mongo Express Docker CRUD/About the Mongo Express Docker CRUD project.md",
     "NodeJS/NodeJS Table of Content.md",
-    "NodeJS/Projects/Mongo Express Docker CRUD/About the Project.md",
-    "NodeJS/Projects/Mongo Express Docker CRUD/Docker Commands.md"
+    "DevOps/The 90 Days Challenge/What is Devops.md",
+    "DevOps/The 90 Days Challenge/90 Days Checklist.md",
+    "DevOps/DevOps Table of Content.md",
+    "Bash/Inputs.md"
   ]
 }
