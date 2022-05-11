@@ -14,6 +14,7 @@
 - [[Arrays]]
 - [[Slices]]
 - [[Map]]
+- [[Pointers in GO]]
 
 
 

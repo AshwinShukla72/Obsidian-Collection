@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "56bb42ae690184c5",
+        "id": "107e1302f75ea24d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Docker/Regular use docker commands.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Regular use docker commands.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "56bb42ae690184c5",
+  "active": "107e1302f75ea24d",
   "lastOpenFiles": [
-    "Docker/Regular use docker commands.md",
-    "Docker/Containers.md",
-    "Docker/Docker Table of Content.md",
-    "Docker/Docker CLI Commands.md",
-    "Docker/Dockerfile.md",
+    "README.md",
+    "System Design/System Design Table of Content.md",
+    "Javascript Collection/Block Scoping.md",
     "Javascript Collection/Javascript table of Content.md",
+    "NodeJS/NodeJS Projects/Node CLI Project/Node CLI Project.md",
+    "NodeJS/NodeJS Projects/Mongo Express Docker CRUD/Mongo Express Docker CRUD project.md",
     "GOlang/Golang table of Content.md",
-    "NodeJS/NodeJS Projects/Node JS Projects.md",
-    "GOlang/Slices/Ranges.md",
-    "README.md"
+    "NodeJS/NodeJS Projects/Mongo Express Docker CRUD/Docker Commands.md",
+    "Docker/Containers.md",
+    "Docker/Docker CLI Commands.md"
   ]
 }

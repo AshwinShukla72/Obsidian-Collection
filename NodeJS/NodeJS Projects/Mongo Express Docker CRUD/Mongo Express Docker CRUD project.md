@@ -1,6 +1,6 @@
 ## Introduction
 This application is built solely to understand and use mongoDB to create CRUD API, and use YAML files to design routes.
-In this application mongoDB is used through a docekr container, and connecting to it through mongoose ODM.
+In this application mongoDB is used through a docekr container, and connecting to it through mongoose ODM. #nodejs 
 
 ## Requirements
 - `docker 20.10.14`
@@ -11,6 +11,9 @@ In this application mongoDB is used through a docekr container, and connecting t
 
 ## Installation
 `npm i express mongoose mongodb`
+
+## Folder Structure
+
 
 ## Docker Commands
 ```bash
@@ -79,3 +82,6 @@ app.listen(PORT,()=>{
 })
 
 ```
+
+
+## Creating A User Module
