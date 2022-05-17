@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "107e1302f75ea24d",
+        "id": "7f46e45afc26ab16",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NodeJS/NodeJS Table of Content.md",
+            "file": "Extras/Insights Collection/Microservices/Best Practices for Microservices Authorization.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Bash",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS/NodeJS Table of Content.md",
+                "file": "Extras/Insights Collection/Microservices/Best Practices for Microservices Authorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,25 +95,34 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "85950cf12e4c0b27",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "107e1302f75ea24d",
+  "active": "7f46e45afc26ab16",
   "lastOpenFiles": [
+    "Extras/Insights Collection/Microservices/Best Practices for Microservices Authorization.md",
+    "Images/SideCar.png",
+    "GOlang/Declaring variables.md",
+    "GOlang/1 minute revision.md",
+    "GOlang/Golang Projects.md",
+    "GOlang/Features of Go.md",
+    "GOlang/Golang table of Content.md",
     "NodeJS/NodeJS Table of Content.md",
-    "DevOps/The 90 Days Challenge/What is Devops.md",
-    "Docker/Intro to Dockerfile.md",
-    "README.md",
-    "NodeJS/NodeJS Projects/Node JS Projects.md",
-    "System Design/System Design Table of Content.md",
-    "Javascript Collection/Block Scoping.md",
-    "Javascript Collection/Javascript table of Content.md",
-    "NodeJS/NodeJS Projects/Node CLI Project/Node CLI Project.md",
-    "NodeJS/NodeJS Projects/Mongo Express Docker CRUD/Mongo Express Docker CRUD project.md"
+    "NodeJS/Node JS Eventloop.md",
+    "NodeJS/Node JS Runtime.md"
   ]
 }
