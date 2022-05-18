@@ -7,12 +7,8 @@
         "id": "7f46e45afc26ab16",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Extras/Insights Collection/Microservices/Best Practices for Microservices Authorization.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Insights Collection/Microservices/Best Practices for Microservices Authorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
