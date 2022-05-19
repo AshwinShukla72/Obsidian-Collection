@@ -3,7 +3,7 @@
 	1. You either use a go package or you don't include it on top
 	2. There is only one way to format curly braces in GO
 
--  [[Features of Go]]
+- [[Features of Go]]
 - [[Packages in GO]]
 - [[Declaring variables]]
 - [[Functions]]
@@ -15,6 +15,7 @@
 - [[Slices]]
 - [[Map]]
 - [[Pointers in GO]]
+- [[Interfaces in GO]]
 
 
 
@@ -22,3 +23,4 @@
 
 
 ## [[Golang Projects]]
+1. [[]]

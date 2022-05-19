@@ -11,9 +11,13 @@ title: defintion
 ```go
 var myArray [3]int // name [array size]typeOfData
 myArray[0] = 1
+
 myArray[1] = 2
-myArray[3] = 3
-myArray := [3]int{7,8,9} // by compund assignment method
+
+myArray[3] = 3 // will throw an error of array out of bounds
+
+
+myArray := [3]int{7,8,9} // by compound assignment method
 myArray := [...]int{12,4,5,6,3,7,7} // when size of array is negotiable
 ```
 [[Dynamic Arrays]]

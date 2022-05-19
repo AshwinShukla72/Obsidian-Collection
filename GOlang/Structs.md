@@ -41,8 +41,7 @@ func main() {
 }
 ```
 
-#### #Anonymous Structures
-
+#### Anonymous Structures
 ```go
 anotherSample := struct {
 		name        string
@@ -54,7 +53,23 @@ anotherSample := struct {
 		122345666,
 	}
 ```
+#### using structures with pointer method
+```go
+type User struct{
+	FirstName string
+	LastName  string
+}
+func (m *string) functionName()string{
+	return m.StructValue
+}
 
+func main(){
+	user := User{
+		FirstName: "SomeName"
+	}
+	log.Println("Another User's firstName is:", user.functionName()) //prints SomeName
+}
+```
 
 #### using structures
 ```go

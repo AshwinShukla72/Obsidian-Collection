@@ -7,8 +7,12 @@
         "id": "7f46e45afc26ab16",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "GOlang/Interfaces in GO.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GOlang/Interfaces in GO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +114,15 @@
   },
   "active": "7f46e45afc26ab16",
   "lastOpenFiles": [
-    "Extras/Insights Collection/Microservices/Best Practices for Microservices Authorization.md",
-    "Images/SideCar.png",
-    "GOlang/Declaring variables.md",
-    "GOlang/1 minute revision.md",
-    "GOlang/Golang Projects.md",
-    "GOlang/Features of Go.md",
+    "GOlang/Interfaces in GO.md",
     "GOlang/Golang table of Content.md",
-    "NodeJS/NodeJS Table of Content.md",
-    "NodeJS/Node JS Eventloop.md",
-    "NodeJS/Node JS Runtime.md"
+    "GOlang/Declaring variables.md",
+    "GOlang/Structs.md",
+    "GOlang/Functions/Functions.md",
+    "GOlang/Packages in GO.md",
+    "GOlang/Outputs.md",
+    "GOlang/Loops.md",
+    "GOlang/Logic Methods.md",
+    "GOlang/Map/Map.md"
   ]
 }

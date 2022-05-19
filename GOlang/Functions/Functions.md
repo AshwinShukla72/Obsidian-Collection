@@ -1,4 +1,4 @@
-> Functions in GO
+## Functions in GO
 
 ```ad-info
 title: Definition of function
@@ -8,11 +8,25 @@ Functions generally are blocks of code in a program which give the user the abil
 
 ```go
 func nameOfFunction(x int) int { // (params and type) output type
-	return x // OPeration on input
+	newName := "Seraphine"
+	Println(x) // Operation on input
+	
+	Println(newName) // prints "seraphine"
+	
+	functionName(&newName) //passing a reference to the variable
+	
+	Println(x) // prints Josephine
 }
 ```
 
-#### ![[Variadic Functions in GO]]
+#### Functions using pointers
+```go
+func functionName (s *string){
+	name:= "Josephine"
+	*s = name
+}
+```
+#### [[Variadic Functions in GO]]
 
 
 

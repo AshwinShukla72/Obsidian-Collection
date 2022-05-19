@@ -27,7 +27,9 @@ slice1 := myArray[0:5] // start at zeroth element of the array and end at the 5t
 // taking the above example
 slice2 := append(slice1, 1,2,3,4) // [1,2,3,4,5,1,2,3,4]
 ```
-> ==A slice can be extended with other slice==
+
+ **A slice can be extended with other slice**
+ 
 ```go
 b := append(slice1, slice2...)
 // and be further extended with other slices
@@ -35,7 +37,7 @@ b = append(b, slice...)
 ```
 ![[Prealocating slices]]
 
-> ==Slices always require underlying array==
+_Slices always require underlying array_
 
 ```go
 package main
