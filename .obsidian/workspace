@@ -7,12 +7,8 @@
         "id": "7f46e45afc26ab16",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "GOlang/Interfaces in GO.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GOlang/Interfaces in GO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +109,15 @@
   },
   "active": "7f46e45afc26ab16",
   "lastOpenFiles": [
+    "README.md",
+    "Microservices/Microservices Extras/Best Practices for Microservices Authorization.md",
+    "Microservices/Microservices Extras/Databases in a Microservice World.md",
+    "Microservices/Microservices Table of Content.md",
     "GOlang/Interfaces in GO.md",
     "GOlang/Golang table of Content.md",
     "GOlang/Declaring variables.md",
     "GOlang/Structs.md",
     "GOlang/Functions/Functions.md",
-    "GOlang/Packages in GO.md",
-    "GOlang/Outputs.md",
-    "GOlang/Loops.md",
-    "GOlang/Logic Methods.md",
-    "GOlang/Map/Map.md"
+    "GOlang/Packages in GO.md"
   ]
 }
