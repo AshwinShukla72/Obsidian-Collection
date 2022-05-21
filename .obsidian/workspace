@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7f46e45afc26ab16",
+        "id": "7092520b07b00e14",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Microservices/Microservices Extras/Databases in a Microservice World.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387
+    "width": 212
   },
   "right": {
     "id": "04663e027d03e40e",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Microservices/Microservices Extras/Databases in a Microservice World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7f46e45afc26ab16",
+  "active": "7092520b07b00e14",
   "lastOpenFiles": [
+    "Microservices/Microservices Extras/Databases in a Microservice World.md",
+    "Images/Monolith Architecture.png",
     "README.md",
     "Microservices/Microservices Extras/Best Practices for Microservices Authorization.md",
-    "Microservices/Microservices Extras/Databases in a Microservice World.md",
     "Microservices/Microservices Table of Content.md",
     "GOlang/Interfaces in GO.md",
     "GOlang/Golang table of Content.md",
     "GOlang/Declaring variables.md",
     "GOlang/Structs.md",
-    "GOlang/Functions/Functions.md",
-    "GOlang/Packages in GO.md"
+    "GOlang/Functions/Functions.md"
   ]
 }
