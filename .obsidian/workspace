@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NodeJS/Building A basic Node JS server.md",
+            "file": "GOlang/Datatypes in GO/Runes.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Signed ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212
+    "width": 317
   },
   "right": {
     "id": "04663e027d03e40e",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS/Building A basic Node JS server.md",
+                "file": "GOlang/Datatypes in GO/Runes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "7092520b07b00e14",
   "lastOpenFiles": [
-    "NodeJS/Building A basic Node JS server.md",
-    "NodeJS/NodeJS Table of Content.md",
-    "Microservices/Microservices Extras/Databases in a Microservice World.md",
-    "Images/Monolith Architecture.png",
-    "README.md",
-    "Microservices/Microservices Extras/Best Practices for Microservices Authorization.md",
-    "Microservices/Microservices Table of Content.md",
-    "GOlang/Interfaces in GO.md",
+    "GOlang/Datatypes in GO/Runes.md",
+    "GOlang/Declaring variables.md",
     "GOlang/Golang table of Content.md",
-    "GOlang/Declaring variables.md"
+    "GOlang/Datatypes in GO/Unsigned Integers.md",
+    "GOlang/Datatypes in GO/Signed Integers.md",
+    "GOlang/Slices/Slices.md",
+    "NodeJS/NodeJS Table of Content.md",
+    "NodeJS/Building A basic Node JS server.md",
+    "Microservices/Microservices Extras/Databases in a Microservice World.md",
+    "Images/Monolith Architecture.png"
   ]
 }
