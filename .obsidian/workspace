@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GOlang/Datatypes in GO/Runes.md",
+            "file": "Extras/Insights Collection/Mongoose crash course.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GOlang/Datatypes in GO/Runes.md",
+                "file": "Extras/Insights Collection/Mongoose crash course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "7092520b07b00e14",
   "lastOpenFiles": [
+    "Extras/Insights Collection/Mongoose crash course.md",
+    "System Design/System Design Table of Content.md",
+    "README.md",
     "GOlang/Datatypes in GO/Runes.md",
     "GOlang/Declaring variables.md",
     "GOlang/Golang table of Content.md",
     "GOlang/Datatypes in GO/Unsigned Integers.md",
     "GOlang/Datatypes in GO/Signed Integers.md",
     "GOlang/Slices/Slices.md",
-    "NodeJS/NodeJS Table of Content.md",
-    "NodeJS/Building A basic Node JS server.md",
-    "Microservices/Microservices Extras/Databases in a Microservice World.md",
-    "Images/Monolith Architecture.png"
+    "NodeJS/NodeJS Table of Content.md"
   ]
 }
