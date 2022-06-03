@@ -6,8 +6,8 @@
 | Container              | Manage container                        | run          |                                             |
 | Image                  | Manage Image                            | start        |                                             |
 | network                | Manage Network                          | stop         |                                             |
-| plugin                 | Manage Plugin                           | exec         | ==login into an already running container== |
-| secret                 | ==Manage password for specific images== | pull         |                                             |
+| plugin                 | Manage Plugin                           | exec         | login into an already running container |
+| secret                 |**Manage password for specific images** | pull         |                                             |
 | service                |                                         | push         |                                             |
 | stack                  |                                         | rm           |                                             |
 | swarm                  |                                         | init         |                                             |                                        |

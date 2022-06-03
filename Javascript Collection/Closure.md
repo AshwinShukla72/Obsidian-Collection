@@ -2,7 +2,7 @@
 
 
 >When a function “remembers” the variables outside of it, even if you pass that function else where.
->  When a function remembers it’s lexical scope even when the function is executed outside of it’s lexical scope
+> When a function remembers it’s lexical scope even when the function is executed outside of it’s lexical scope
 
 
 ```js
