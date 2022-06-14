@@ -32,3 +32,18 @@ To start we know that we won’t have to check for all only passes between 2 - 1
 - pass 17 **No Toggle**
 
 So, going by this narrative we understand that if n is pass then the if the number is a perfect square then it will remain open, therefore ==1,4,9,16,25,36,49,64,81,100== will remain open… total is 10.
+
+##### 3. You have a 5 gallons jug and a 3 gallons jug, and an unlimited supply of water(but no measuring cups) How would you exactly comeup with 4 gallons of water?
+
+- Fill up the gallon jug => into 3 gallon jug
+- Water left in 5 gallon jug is 2, Empty the 3 gallon jug
+- Pour the entirety of 5 gallon jug => 3 gallon Jug
+- 3 gallon jug has 2 gallons now, Fill 5 gallon one again
+- pour the water fromm 5 gallon jug -> 3 gallon jug
+- Water left in 5 gallon is 4 (Answer)
+
+##### 4. You have 2 ropes each takes 60 mins to burn, They are made of different materials hence the burning rates are different, one burns inconsistently, How do measure 45 minutes?
+
+Take one rope and burn it at both ends,
+At the same time burn one end of the other rope.
+When the first one is done burning, burn the other, when both are burnt time is 45
