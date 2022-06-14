@@ -14,7 +14,7 @@
 	// COMMIT TRANSACTION
 	```
 
-- [[Atomicity]]
-- [[Isolation]]
-- [[Consistency]]
-- [[Durabilty]]
+- ![[Atomicity]]
+- ![[Isolation]]
+- ![[Consistency]]
+- ![[Durabilty]]

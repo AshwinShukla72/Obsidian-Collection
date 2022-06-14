@@ -60,5 +60,8 @@ func main() {
 }
 
 ```
+```go
+// Fibonacci series
 
+```
 ![[Ranges]]
