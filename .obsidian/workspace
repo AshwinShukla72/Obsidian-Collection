@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2bdf94fd0fa7dc4",
+        "id": "6b6e63003f7e3557",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Riddles and Fallaciousness/Interview Riddles.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Riddles and Fallaciousness/Interview Riddles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b2bdf94fd0fa7dc4",
+  "active": "6b6e63003f7e3557",
   "lastOpenFiles": [
-    "Riddles and Fallaciousness/Interview Riddles.md",
     "Extras/Extras Table of Content.md",
+    "Extras/Insights Collection/Data Migration.md",
+    "Riddles and Fallaciousness/Interview Riddles.md",
     "Extras/Insights Collection/Cookies, Sessions and Tokens.md",
     "GOlang/Structs.md",
     "GOlang/Arrays/Arrays.md",
     "NodeJS/ExpressJS/Express JS Table of Content.md",
     "Extras/Insights Collection/Package.json and Package-lock.json.md",
     "Databases/Relational Databases/Conistency/Consistency.md",
-    "Databases/Relational Databases/Conistency/Consistency in Data.md",
-    "Databases/Relational Databases/Durabilty.md"
+    "Databases/Relational Databases/Conistency/Consistency in Data.md"
   ]
 }
