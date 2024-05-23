@@ -9,7 +9,7 @@
 | **Output**         | Scope and strategy documentation, cleaned source data & ETL jobs and data migration scripts | Signed off migration document                                    | Signed off data migration clousre document                                                                |
 
 ##### What are ETL jobs?
-==ETL stands for Extract, Trasnform and Load==, The job/procedure for copying data from one or more sources, then transforming the data at the source system, and lastly copying into a destination system which represents the data differently from the source(s).
+==ETL stands for Extract, Transform and Load==, The job/procedure for copying data from one or more sources, then transforming the data at the source system, and lastly copying into a destination system which represents the data differently from the source(s).
 
 
 ##### Data Migration Types

@@ -1,6 +1,9 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Spectrum",
+  "cssTheme": "AnuPpuccin",
   "translucency": false,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "accentColor": "",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono"
 }

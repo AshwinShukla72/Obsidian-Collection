@@ -9,4 +9,4 @@
 	- #Registry is a system that stores images.
 	- ==Generally Only one service is executable in one container?==
 
-- #### ![[Docker CLI commands]]
+![[Docker CLI commands]]

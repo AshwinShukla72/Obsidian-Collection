@@ -1,5 +1,5 @@
 #eventloop
-> Works the same way as JS eventloop.
+> Works the same way as JS event loop.
 
 ==`process.nextTick()` this function is run everytime eventloop is run once==
 
@@ -9,8 +9,4 @@ After every tick, the runtime performs checks
 3. If there are any pending long running tasks. 
 
 - ##### setImmediate()
-	- Run in asynchronous runtime, whenever a task has to be run immediately. 
-		```js
-		setImmediate() = setTimeout(()=>{},0)
-		```
-
+	- Run in asynchronous runtime, whenever a task has to be run immediately. `setImmediate() = setTimeout(()=>{},0)`
