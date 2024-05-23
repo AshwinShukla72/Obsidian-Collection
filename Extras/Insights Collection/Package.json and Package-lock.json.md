@@ -16,7 +16,7 @@
 ==**Keeps track of what was actually installed at the beginning of the project**== and keeps track of versioning by getting information from package.json, when `package.json` is changed `package-lock.json` is outdated and is upadated with `npm i`
 
 ##### Difference between `npm i`  and  `npm ci`
-- `npm i` will  install the best package and  will update the `package-lock.json` file.
--  `npm ci`  ci for  `clean-install` whe n `node_modules` file is not present, if present it will remove it automatically.
+- `npm i` will install the best package and will update the `package-lock.json` file.
+- `npm ci` ci stands for `clean-install` when `node_modules` file is not present, if present it will remove it automatically.
 - It will never write to `package.json` or any of the package-locks: installs are essentially frozen
--  `npm ci` can only install entire projects at a time: individual dependencies cannot be added with this command.
+- `npm ci` can only install entire project's dependencies, individual dependencies cannot be added with this command.
