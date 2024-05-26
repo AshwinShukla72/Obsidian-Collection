@@ -1,5 +1,4 @@
 
-## let, const and var
 let, const and var are keywords used to declare variables in javascript.
 ```ad-note
 Variables are representation of some place in memory / variables are aliases for memory address
