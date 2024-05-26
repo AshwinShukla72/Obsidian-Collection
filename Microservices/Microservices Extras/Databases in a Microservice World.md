@@ -21,9 +21,9 @@ By this method DB calls are reduced, as it updates information in bulk rather th
 
 
 #### What is actually being done in microservice approach
-Usually, Microservice approach helps in releasing code faster but the database provisioning is a very important task in itself to do so most of the time when designing softwares for Business groups, this approach is seen.
+Usually, Microservice approach helps in releasing code faster but the database provisioning is a very important task in itself to do so most of the time when designing software for Business groups, this approach is seen.
 ![[What actually happens.png]]
 
-This very wrong by defintion but it works.
+This very wrong by definition but it works.
 
 
