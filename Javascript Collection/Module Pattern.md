@@ -1,6 +1,0 @@
-### Module Pattern
-
-```ad-info
-
-
-```

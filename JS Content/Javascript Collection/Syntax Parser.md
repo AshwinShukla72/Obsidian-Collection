@@ -1,0 +1,1 @@
+A program that reads the code to determines what it does and If the grammar is correct.
