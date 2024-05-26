@@ -10,7 +10,8 @@ Contains Notes on -
 6. [[DevOps Table of Content]]
 7. [[System Design Table of Content]]
 8. [[Microservices Table of Content]]
-
+9. [[Design Patterns]]
+10. [[SOLID Principles]]
 
 ### Extras
 - [[Extras Table of Content]]

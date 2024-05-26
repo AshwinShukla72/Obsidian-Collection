@@ -1,2 +1,34 @@
-*.obsidian
-*.json
+# Created by Leo, a Brave AI assistant
+
+# Obsidian vault metadata
+.obsidian/
+
+# Obsidian cache
+.obsidian/cache/
+
+# Obsidian graph database
+.obsidian/graph/
+
+# Obsidian linked bricks
+.obsidian/linked_bricks/
+
+# Obsidian snapshots
+.obsidian/snapshots/
+
+# Obsidian backup
+.obsidian/backup/
+
+# Obsidian index
+.obsidian/index.md
+
+# Obsidian log
+.obsidian/log.json
+
+# Obsidian untracked.log
+.obsidian/untracked.log
+
+# Obsidian plugin cache
+.obsidian/plugins/cache/
+
+# Obsidian vault settings
+.obsidian/plugins/settings.json
