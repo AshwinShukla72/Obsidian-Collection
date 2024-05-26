@@ -19,7 +19,7 @@
 	- Boolean
 	- 
 - [[Declaring variables]]
-- Functions in GO![[Functions]]
+- Functions in GO![[GOlang/Functions/Functions]]
 - [[Logic Methods]]
 - [[Loops]]
 - ![[Outputs]]
