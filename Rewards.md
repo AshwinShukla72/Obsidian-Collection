@@ -1,1 +1,7 @@
-- 
+- 🏋️ Exercise for 10 minutes 🏋️
+- 💪 Watch a motivation video 💪
+- 🍵 Have a cup of Iced tea {3} 🍵
+- 🏎️ Play a game of real racing 3 {rare} {2} 🍵
+- 🎭 Watch a part of any series {rare} {1} 🎭
+- 😴 Take a good nap {rare} {1} 😴
+- 🥘 Buy yourself a good meal {legendary} {1} 🥘
