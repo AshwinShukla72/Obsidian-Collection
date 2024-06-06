@@ -29,11 +29,10 @@
 - ![[Map]]
 - [[Pointers in GO]]
 - [[Interfaces in GO]]
-
-
-
-
-
-
 ## [[Golang Projects]]
-1. [[]]
+
+
+
+## Extras
+1. [[Golang_for_Jobseekers_-_Unleash_the_power_of_Go_programming_for_career_advancement_English_Edition.pdf]]
+2. [[Distributed Services with Go Your Guide to Reliable, Scalable, and Maintainable Systems.pdf]]
