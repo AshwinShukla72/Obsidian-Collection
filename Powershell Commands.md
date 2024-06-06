@@ -1,7 +1,7 @@
 
 - new folder
 ```powershell
-New-Item -Path "./[File_Path]" -Item-Type Directory -Name "[FileName\" 
+New-Item -Path "./[File_Path]" -Item-Type Directory -Name "[FileName]" 
 ```
 
 - new file
