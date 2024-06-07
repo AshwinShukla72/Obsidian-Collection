@@ -1,5 +1,6 @@
 {
   "conventionalCommits.scopes": [
-    "Book Location changes"
+    "Book Location changes",
+    "Adding TS snippets"
   ]
 }
