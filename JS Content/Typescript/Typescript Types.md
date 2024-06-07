@@ -68,6 +68,7 @@ Type `unknown` is the **type-safe** version of `any`:
 - You must use **checks** to **type narrow** a value before you can use a it
 - You **can’t access any object properties** unless you **type narrow** first and then use **type assertion**
 - Type `unknown` can only be assigned to type `unknown` and type `any`
+
   ```ts
   const apiResponse: unknown = {data: []}
 
@@ -86,8 +87,6 @@ if (apiResponse && typeof apiResponse === 'object') {
   response.data // no warning ✅
 }
 ```
-
-
 
 
 ## Void
