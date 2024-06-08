@@ -1,0 +1,3 @@
+- Do not chase applaud and acclaim
+- What a makes a good person? A good person acknowledges to wring and owns up to it
+- Self help doesn't unless you act 

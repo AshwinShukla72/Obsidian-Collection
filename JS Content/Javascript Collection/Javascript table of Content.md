@@ -16,3 +16,5 @@
 - ### Module Pattern![[Module Pattern]]
 - [[Object-Orienting]]
 	- ### This Keyword ![[This Keyword]]
+
+[[JS types]]
