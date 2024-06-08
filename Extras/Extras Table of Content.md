@@ -4,3 +4,4 @@
 4. [[Cookies, Sessions and Tokens]]
 5. [[Data Migration]]
 6. [[API vs SDK]]
+7. [[Extracting services from a monolithic app]]

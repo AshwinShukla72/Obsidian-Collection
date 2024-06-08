@@ -12,4 +12,3 @@ Extract the service in phases -
 - Phase 4: On validation and checks write to the main data with the extracted service.
 
 ![[Pasted image 20240609030351.png]]
-
