@@ -1,2 +1,4 @@
-- https://www.apple.com/in/shop/buy-mac/macbook-pro/16-inch-space-black-apple-m3-pro-with-12-core-cpu-and-18-core-gpu-18gb-memory-512gb
+- [Macbook Pro](https://www.apple.com/in/shop/buy-mac/macbook-pro/16-inch-space-black-apple-m3-pro-with-12-core-cpu-and-18-core-gpu-18gb-memory-512gb)
+- [Macbook Air](https://www.apple.com/in/shop/buy-mac/macbook-air/15-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-8gb-memory-512gb)
+- https://urturms.com/products/graphite
 - 

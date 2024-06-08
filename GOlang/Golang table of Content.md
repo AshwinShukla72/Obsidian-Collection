@@ -29,6 +29,10 @@
 - ![[Map]]
 - [[Pointers in GO]]
 - [[Interfaces in GO]]
+
+
+## Tricks
+- [[Shorthand tricks in Golang]]
 ## [[Golang Projects]]
 
 
