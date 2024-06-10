@@ -1,4 +1,4 @@
-#monolith
+[]()#monolith
 #### Monolith Architecture
 A monolith architecture is designed as a software where cohesion between services is high. It was created by waterfall methodology. and can be represented as below
 ![[Monolith Architecture.png]]
