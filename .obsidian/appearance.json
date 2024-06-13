@@ -1,8 +1,8 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Things",
+  "cssTheme": "Abyssal",
   "translucency": false,
-  "theme": "system",
+  "theme": "obsidian",
   "accentColor": "#5f5cf5",
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono"
