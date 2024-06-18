@@ -5,5 +5,5 @@ Most authorization is usually handled using gateway, this can actually not be fr
 ##### Methods-
 1. Enforce JWT(JSON Web Token) Validation 
 2. Use RBAC and ABAC to Control End-User Actions 
-3. Use Sidecar Enforcement for Security, Performance and Availabilty.
-  ![[SideCarMain.png]]
+	1. Use Sidecar Enforcement for Security, Performance and Availabilty.
+	  ![[SideCarMain.png]]![[SideCarMain.png]]

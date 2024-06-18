@@ -1,0 +1,2 @@
+- You do it right, and you do it everyday. You take care of your body, you tidy up after yourself, you practice gratitude and you practice.
+- 
