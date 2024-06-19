@@ -19,6 +19,9 @@ Contains Notes on -
 ### Books
 - Self Help Books
 	- [[The 12 Week Year by Brian P. Moran.pdf]]
+- Software Desgin
+	- [[Designing Data Intensive Applications.pdf]]
+	- [[rest-api-design-rulebook.pdf]]
 - Golang Books
 	- [[Distributed Services with Go Your Guide to Reliable, Scalable, and Maintainable Systems.pdf]]
 	- [[Golang_for_Jobseekers_-_Unleash_the_power_of_Go_programming_for_career_advancement_English_Edition.pdf]]
