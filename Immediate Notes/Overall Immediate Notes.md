@@ -97,3 +97,11 @@ In a monorepo-based microservices project with Kubernetes for autoscaling, manag
 - Encrypting files with the receiver's public key ensures data confidentiality, as the file can only be decrypted by the associated private key.
 - Combining encryption and signing ensures both data confidentiality and integrity, protecting sensitive files over the internet.
 - It's essential to follow security best practices and continuously learn about new techniques to maintain data security.
+
+
+-- Look into 
+ - Singleton
+ - Decorator
+ - Facade
+ - Observer
+ - Strategy

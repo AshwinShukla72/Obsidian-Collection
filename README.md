@@ -25,6 +25,7 @@ Contains Notes on -
 - Golang Books
 	- [[Distributed Services with Go Your Guide to Reliable, Scalable, and Maintainable Systems.pdf]]
 	- [[Golang_for_Jobseekers_-_Unleash_the_power_of_Go_programming_for_career_advancement_English_Edition.pdf]]
+	- [[Mastering Go Create Golang production applications.pdf]]
 	- [[IanTaylor-GoProgrammingCookbook.epub.pdf]]
 - Node JS Books
 	- [[Bethany Griggs_ - Node Cookbook (2020).pdf]]

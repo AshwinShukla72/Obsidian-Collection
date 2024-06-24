@@ -28,3 +28,8 @@ Get-ChildItem "./[Directory_Path]"
 ```powershell
 Get-Content "./[File_Path]"
 ```
+
+- Remove Directory
+```powershell
+Remove-Item -Path "[./FilePath]" -Recurse -Force
+```

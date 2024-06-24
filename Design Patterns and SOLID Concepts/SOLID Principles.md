@@ -105,7 +105,7 @@ The Liskov Substitution Principle requires that a child class should be able to 
 
 ```JS
 class Bird {
-	haveFethears() {
+	haveFeathers() {
 	 // A bird should have feathers
 	}
 	haveABeak() {
@@ -185,3 +185,4 @@ class InventoryRequesterV2 {
 const inventoryTracker = new InventoryTracker(["laptops", "keyboards"], new InventoryRequesterV1())
 inventoryTracker.requestItems()
 ```
+
