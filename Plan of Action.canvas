@@ -1,15 +1,15 @@
 {
 	"nodes":[
-		{"id":"4b7f065747570baa","x":-1320,"y":-431,"width":420,"height":260,"color":"5","type":"text","text":"**Docker: What to learn**\n- Basic Dockerfile configuration\n- Security\n- Commands\n- Docker Compose\n- Docker Swarm\n- CI/CD"},
 		{"id":"e3a671b861fe0edb","x":-720,"y":-171,"width":310,"height":325,"color":"#5133e6","type":"text","text":"**Development with Golang**:\n- Basic Techniques\n- Servers\n- Microservices\n- CI/CD\n- Fiber Framework or Gin\n- SQLite / Postgres\n- Docker Integration and usage"},
-		{"id":"245108b3529cbb4a","x":-720,"y":-810,"width":415,"height":280,"color":"4","type":"text","text":"**Node JS Development**\n- Basic and Advanced Techniques\n- Servers\n- Microservices\n- CI/CD\n- Basics of JS\n- Bun JS\n- Hono JS & Express JS"},
-		{"id":"780b1854ac4aab12","x":-1320,"y":-721,"width":395,"height":191,"type":"text","text":"**Linux**\n- Basics\n\t- user  | Groups | Basic Commands"},
-		{"id":"27f6acdb159fbc15","x":-200,"y":280,"width":250,"height":230,"color":"1","type":"text","text":"**React / HTMX for frontend:**\n\n- Basic SPA\n- Basic Knowledge of Hooks\n- Basic Usage"},
-		{"id":"81efbdac683edd7f","x":295,"y":-8,"width":270,"height":267,"color":"#0782cf","type":"text","text":"**PostgresQL/ SQL**\n\n- Aggregations\n- Joins\n- Update\n- truncate\n- Alter"},
 		{"id":"8909944fc5071ecd","x":115,"y":-1520,"width":250,"height":179,"color":"#158e2d","type":"text","text":"**MongoDB**\n- Aggregations \n- Partitions\n- Queries"},
-		{"id":"4a30a4b2e325bc86","x":143,"y":-1160,"width":277,"height":166,"color":"1","type":"text","text":"*Redis DB*\n- Common Terms \n- Usage"},
-		{"id":"7854ef4f043a23ef","x":240,"y":-761,"width":250,"height":182,"color":"3","type":"text","text":"**CI/CD With Gitlabs**\n\n- Configure and learn for Microservices"},
-		{"id":"6ea228d7510c352e","x":760,"y":-431,"width":250,"height":267,"color":"2","type":"text","text":"**AWS / GCP**\n- Basic services\n- Hosting Microservices\n- Deployment\n- Serverless"}
+		{"id":"245108b3529cbb4a","x":-720,"y":-943,"width":415,"height":280,"color":"4","type":"text","text":"**Node JS Development**\n- Basic and Advanced Techniques\n- Servers\n- Microservices\n- CI/CD\n- Basics of JS\n- Bun JS\n- Hono JS & Express JS"},
+		{"id":"27f6acdb159fbc15","x":32,"y":240,"width":250,"height":230,"color":"#1916c5","type":"text","text":"**React / HTMX for frontend:**\n\n- Basic SPA\n- Basic Knowledge of Hooks\n- Basic Usage"},
+		{"id":"4a30a4b2e325bc86","x":213,"y":-1077,"width":277,"height":166,"color":"1","type":"text","text":"*Redis DB*\n- Common Terms \n- Usage"},
+		{"id":"81efbdac683edd7f","x":282,"y":-438,"width":270,"height":267,"color":"#0782cf","type":"text","text":"**PostgresQL/ SQL**\n\n- Aggregations\n- Joins\n- Update\n- truncate\n- Alter"},
+		{"id":"780b1854ac4aab12","x":-1320,"y":-854,"width":420,"height":184,"type":"text","text":"**Linux**\n- Basics\n\t- user  | Groups | Basic Commands"},
+		{"id":"4b7f065747570baa","x":-1320,"y":-536,"width":420,"height":260,"color":"5","type":"text","text":"**Docker: What to learn**\n- Basic Dockerfile configuration\n- Security\n- Commands\n- Docker Compose\n- Docker Swarm\n- CI/CD"},
+		{"id":"6ea228d7510c352e","x":1720,"y":-543,"width":250,"height":267,"color":"2","type":"text","text":"**AWS / GCP**\n- Basic services\n- Hosting Microservices\n- Deployment\n- Serverless"},
+		{"id":"7854ef4f043a23ef","x":840,"y":-663,"width":250,"height":182,"color":"3","type":"text","text":"**CI/CD With Gitlabs**\n\n- Configure and learn for Microservices"}
 	],
 	"edges":[
 		{"id":"dcd2c7e7ddd99d9d","fromNode":"245108b3529cbb4a","fromSide":"top","toNode":"4b7f065747570baa","toSide":"right"},
@@ -25,6 +25,9 @@
 		{"id":"99ce8965e2e2a52d","fromNode":"e3a671b861fe0edb","fromSide":"right","toNode":"81efbdac683edd7f","toSide":"left"},
 		{"id":"dbcbdb3b0f998788","fromNode":"7854ef4f043a23ef","fromSide":"right","toNode":"6ea228d7510c352e","toSide":"left"},
 		{"id":"f242b9d96b09e9fe","fromNode":"e3a671b861fe0edb","fromSide":"right","toNode":"4a30a4b2e325bc86","toSide":"left"},
-		{"id":"1b42d5ab521cb697","fromNode":"245108b3529cbb4a","fromSide":"right","toNode":"4a30a4b2e325bc86","toSide":"left"}
+		{"id":"1b42d5ab521cb697","fromNode":"245108b3529cbb4a","fromSide":"right","toNode":"4a30a4b2e325bc86","toSide":"left"},
+		{"id":"1fb49baffdc53643","fromNode":"4a30a4b2e325bc86","fromSide":"right","toNode":"6ea228d7510c352e","toSide":"left"},
+		{"id":"bc939a47bb678e49","fromNode":"27f6acdb159fbc15","fromSide":"right","toNode":"6ea228d7510c352e","toSide":"left"},
+		{"id":"ee60bb8cdff0c2e3","fromNode":"4b7f065747570baa","fromSide":"right","toNode":"6ea228d7510c352e","toSide":"left"}
 	]
 }
