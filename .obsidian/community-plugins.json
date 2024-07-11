@@ -7,8 +7,9 @@
   "obsidian-checklist-plugin",
   "obsidian-emoji-toolbar",
   "obsidian-rewarder",
-  "heatmap-calendar",
   "obsidian-git",
   "obsidian-mind-map",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "dataview",
+  "highlightr-plugin"
 ]
