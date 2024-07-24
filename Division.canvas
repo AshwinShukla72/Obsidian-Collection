@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"7c7645e6f477bfdf","x":-240,"y":-320,"width":320,"height":800,"type":"text","text":"Masterlist\n\n##### Urgent\n- [ ] Find Jobs\n- [ ] Microservices with node JS\n- [ ] Completing the Code With Jay Tutorials\n- [ ] Code the microservices project\n- [ ] Docker\n##### Non-urgent \n- [ ] Golang Pointers\n- [ ] Golang Interfaces\n- [ ] Golang Microservices\n- [ ] Database principles in Deep\n##### Non-Urgent Important\n- [ ] Practice Some questions using Go and Node"},
+		{"id":"0e73ee38947b1dae","x":-620,"y":-180,"width":320,"height":500,"type":"text","text":"Masterlist\n- [ ] Microservices with node JS\n- [ ] Completing the Code With Jay Tutorials\n- [ ] Code the microservices project\n- [ ] Golang Pointers\n- [ ] Golang Interfaces\n- [ ] Find Jobs\n- [ ] Docker\n- [ ] Database principles in Deep\n- [ ] Practice Some questions using Go and Node"},
+		{"id":"23f2865947ab7c1c","x":120,"y":-320,"width":300,"height":720,"type":"text","text":""}
+	],
+	"edges":[]
+}

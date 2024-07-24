@@ -1,6 +1,6 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "promptDelete": true,
+  "promptDelete": false,
   "alwaysUpdateLinks": true
 }

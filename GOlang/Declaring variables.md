@@ -29,3 +29,4 @@ const (
 ```ad-warning
 variables created using `var` and `const` outside the function can be accessed globally
 ```
+

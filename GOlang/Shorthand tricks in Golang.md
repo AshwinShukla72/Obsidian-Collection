@@ -36,7 +36,7 @@ if value, exists := myMap[key]; !exists {
 }
 ```
 
-#### Loop Over Slices with Index and Value**
+#### <mark style="background: #BBFABBA6;">Loop Over Slices with Index and Value</mark>
 
 ```go
 // Long form
@@ -88,3 +88,9 @@ add := func(x, y int) int {
     return x + y
 }
 ```
+
+
+The most challenging projects that I have worked on was at Qdesq which included a series of automated services working together to manage broker availability,automatically assigning leads based on broker availability for fair distribution of leads and autosharing venues via whatsapp and mail while reducing cost of our google APIs.
+I was also the design and development of backend system for integrating tally software with the CRM & integrating the automation flow for e-invoice creation & cancellation on the government portal.
+
+And Creation of a reports service from scratch reducing the latency of the main server.
